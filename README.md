@@ -17,6 +17,7 @@ A 3D model of the aircraft was used to simulate airflow and evaluate lift and dr
 ## Results
 The simulation provided insight into how flight conditions affect lift and drag, with results compared to theoretical expectations.
 
+![F-16 CFD Results](PASTE_IMAGE_LINK_HERE)
 ## Report
 
 [View Full Report](F-16_CFD.pdf)
