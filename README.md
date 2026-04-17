@@ -19,4 +19,4 @@ The simulation provided insight into how flight conditions affect lift and drag,
 
 ## Report
 
-[View Full Report](F-16 CFD.pdf)
+[View Full Report](F-16_CFD.pdf)
